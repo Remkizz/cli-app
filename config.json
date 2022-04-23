@@ -1,0 +1,12 @@
+{
+	"options": {
+		"env": "(python cli)$"
+	},
+	"paths": {
+		"default": "bin",
+		"bin": "bin",
+		"mc": "minecraft",
+		"minecraft": "minecraft",
+		"current": ""
+	}
+}
